@@ -770,7 +770,7 @@ ul.socialmedia li a {
 display: none;
 }
 
-#buttons, #want-a-discount--form {
+.bloco-destaque, #want-a-discount--form {
   display: none;
 }
 
